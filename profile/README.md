@@ -1,7 +1,11 @@
 <p align="center">
   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://neuronection.com/logos/neuronection-dark.svg">
+    <img src="https://neuronection.com/logos/neuronection.svg" height="36" alt="">
+  </picture>
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://neuronection.com/logos/neuronection-wordmark-dark.svg">
-    <img src="https://neuronection.com/logos/neuronection-wordmark.svg" width="320" alt="Neuronection">
+    <img src="https://neuronection.com/logos/neuronection-wordmark.svg" height="36" alt="Neuronection">
   </picture>
 </p>
 
