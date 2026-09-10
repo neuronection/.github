@@ -19,10 +19,6 @@
        python3 scripts/sync_ecosystem.py --check        # drift gate
 -->
 
-<!-- NEURONECTION:BADGE:START -->
-[![Neuronection](https://img.shields.io/badge/part_of_the-Neuronection_family-4F46E5)](https://neuronection.com)
-<!-- NEURONECTION:BADGE:END -->
-
 <!-- NEURONECTION:ECOSYSTEM:START -->
 ---
 
