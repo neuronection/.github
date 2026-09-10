@@ -10,5 +10,5 @@ one idea: structure your data, keep it yours, and let AI explain itself.
 | [Study Assistant](https://github.com/neuronection/study-assistant) | Local-first AI study workbench |
 | [Desktop Assistant](https://github.com/neuronection/desktop-assistant) | AI launcher in your system tray |
 
-All repos are Apache-2.0 and in beta (Career Assistant: alpha).
+All repos are Apache-2.0 and in beta.
 Learn more at **[neuronection.com](https://neuronection.com)**.
